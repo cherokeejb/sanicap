@@ -2,6 +2,13 @@
 
 A python based packet capture sanitizer
 
+#see also
+#https://isc.sans.edu/forums/diary/Truncating+Payloads+and+Anonymizing+PCAP+files/23990/
+#scrub-tcpdump
+#in-q-tel suggested 2018 tcpdump flags
+
+#looking through this branch looking for ideas for exisitng or new scapy scripts
+
 ##Features
 * Clean your pcaps for worry-free sharing
 * Can randomize/sequentialize:
